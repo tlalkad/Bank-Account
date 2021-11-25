@@ -3,7 +3,7 @@ It is a project I made for college in Python classes.
 The main goal was to made program, with simple GUI, that will allow you to create new bank account
 
 ## The assumptions of program was simple: 
-- Bank workers should can create account for customer (INT - international, PL - Polish or for company)
+- Bank workers should be able to create account for customer (INT - international, PL - Polish or for company)
 - Create a account based on class: BankAccount_COVID19, BankAccount_COVID19_Company or BankAccount_INT(if its for international client)
 - The program should save account data in a separate file named "account"
 - Create GUI using tkinter interface
